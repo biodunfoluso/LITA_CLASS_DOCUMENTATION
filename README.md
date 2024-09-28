@@ -14,3 +14,4 @@ This is where i document my work on Data Analysis full course with GitHub.
 - Reporting with pivot tables and chart 1
 - Reporting with pivot tables and chart 2
 - pivot Tables
+' ' '
