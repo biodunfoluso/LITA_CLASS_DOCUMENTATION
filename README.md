@@ -15,3 +15,6 @@ This is where i document my work on Data Analysis full course with GitHub.
 - Reporting with pivot tables and chart 2
 - pivot Tables
 
+
+### Basics of Data Analysis
+![20240924_093716166](https://github.com/user-attachments/assets/22bf1ff2-47e6-4e2b-a9b3-ad98aabdd0d6)
